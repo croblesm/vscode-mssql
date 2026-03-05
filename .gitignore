@@ -27,7 +27,6 @@ test/resources/launchDir
 # Binaries and packages
 *.exe
 *.nupkg
-*.vsix
 
 # Temporary and backup files
 *.orig
